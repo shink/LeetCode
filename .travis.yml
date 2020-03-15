@@ -2,3 +2,6 @@ language: java
 
 java:
   - "1.8"
+
+os:
+  - linux
