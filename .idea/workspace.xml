@@ -13,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -41,19 +41,20 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="FindWordsThatCanBeFormedByCharacters" />
       <recent name="MaxAreaOfIsland" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="a" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\IDEA\IDEA Workspace\LeetCode\src\Simple" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.SolutionTest.maxAreaOfIsland">
+  <component name="RunManager" selected="JUnit.SolutionTest.countCharacters">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="LeetCode" />
@@ -72,6 +73,22 @@
       <option name="PACKAGE_NAME" value="MaxAreaOfIsland" />
       <option name="MAIN_CLASS_NAME" value="MaxAreaOfIsland.SolutionTest" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolutionTest.countCharacters" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FindWordsThatCanBeFormedByCharacters.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="FindWordsThatCanBeFormedByCharacters" />
+      <option name="MAIN_CLASS_NAME" value="FindWordsThatCanBeFormedByCharacters.SolutionTest" />
+      <option name="METHOD_NAME" value="countCharacters" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -99,9 +116,11 @@
       <item itemvalue="Application.Main" />
       <item itemvalue="JUnit.SolutionTest" />
       <item itemvalue="JUnit.SolutionTest.maxAreaOfIsland" />
+      <item itemvalue="JUnit.SolutionTest.countCharacters" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SolutionTest.countCharacters" />
         <item itemvalue="JUnit.SolutionTest.maxAreaOfIsland" />
         <item itemvalue="JUnit.SolutionTest" />
         <item itemvalue="Application.Main" />
@@ -122,6 +141,10 @@
       <workItem from="1584149202006" duration="6740000" />
       <workItem from="1584238658850" duration="8011000" />
       <workItem from="1584256880944" duration="469000" />
+      <workItem from="1584322728588" duration="2773000" />
+      <workItem from="1584412453665" duration="1381000" />
+      <workItem from="1584414073201" duration="6636000" />
+      <workItem from="1584513345052" duration="3040000" />
     </task>
     <servers />
   </component>
@@ -157,33 +180,53 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="363" y="113" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1584242031789" />
-    <state width="1323" height="208" key="GridCell.Tab.0.bottom" timestamp="1584256788694">
+    <state width="1323" height="227" key="GridCell.Tab.0.bottom" timestamp="1584425484678">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="208" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1584256788694" />
-    <state width="1323" height="208" key="GridCell.Tab.0.center" timestamp="1584256788694">
+    <state width="1323" height="227" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1584425484678" />
+    <state width="1323" height="227" key="GridCell.Tab.0.center" timestamp="1584425484677">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="208" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1584256788694" />
-    <state width="1323" height="208" key="GridCell.Tab.0.left" timestamp="1584256788693">
+    <state width="1323" height="227" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1584425484677" />
+    <state width="1323" height="227" key="GridCell.Tab.0.left" timestamp="1584425484677">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="208" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1584256788693" />
-    <state width="1323" height="208" key="GridCell.Tab.0.right" timestamp="1584256788694">
+    <state width="1323" height="227" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1584425484677" />
+    <state width="1323" height="227" key="GridCell.Tab.0.right" timestamp="1584425484678">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="208" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1584256788694" />
-    <state x="56" y="28" key="SettingsEditor" timestamp="1584256683162">
+    <state width="1323" height="227" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1584425484678" />
+    <state width="1323" height="227" key="GridCell.Tab.1.bottom" timestamp="1584425484679">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="56" y="28" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1584256683162" />
+    <state width="1323" height="227" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1584425484679" />
+    <state width="1323" height="227" key="GridCell.Tab.1.center" timestamp="1584425484678">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1584425484678" />
+    <state width="1323" height="227" key="GridCell.Tab.1.left" timestamp="1584425484678">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1584425484678" />
+    <state width="1323" height="227" key="GridCell.Tab.1.right" timestamp="1584425484678">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1584425484678" />
+    <state x="56" y="0" key="SettingsEditor" timestamp="1584322818555">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="56" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1584322818555" />
     <state x="482" y="149" key="chooseDestDirectoryDialog" timestamp="1584240952996">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="482" y="149" key="chooseDestDirectoryDialog/0.0.1366.738@0.0.1366.738" timestamp="1584240952996" />
-    <state x="454" y="87" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1584241075326">
+    <state x="454" y="87" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1584417153100">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="454" y="87" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.738@0.0.1366.738" timestamp="1584241075326" />
+    <state x="454" y="87" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.738@0.0.1366.738" timestamp="1584417153100" />
+    <state x="413" y="139" key="extract.method.dialog" timestamp="1584415538744">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="413" y="139" key="extract.method.dialog/0.0.1366.738@0.0.1366.738" timestamp="1584415538744" />
   </component>
 </project>

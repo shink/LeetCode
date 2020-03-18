@@ -26,5 +26,6 @@ public class SolutionTest {
         Solution solution = new Solution();
         int res = solution.maxAreaOfIsland(grid);
         System.out.println(res);
+
     }
 }
