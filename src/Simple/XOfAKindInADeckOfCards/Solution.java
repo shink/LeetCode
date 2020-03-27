@@ -12,7 +12,7 @@ public class Solution {
     // return 所有数字出现次数的公约数 >= 2
 
     /**
-     * 我的方法
+     * 我的方法，3ms
      */
     //    public boolean hasGroupsSizeX(int[] deck) {
     //        int[] array = new int[10000];
@@ -49,7 +49,7 @@ public class Solution {
     //    }
 
     /**
-     * 官方结题
+     * 官方题解，5ms
      */
     public boolean hasGroupsSizeX(int[] deck) {
         int[] count = new int[10000];
