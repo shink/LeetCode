@@ -8,6 +8,10 @@
 </p>
 
 
+## Mirror
+
+- Gitee: [tsund/LeetCode](https://gitee.com/tsund/LeetCode.git)
+
 ## License
 
 [MIT](LICENSE)
