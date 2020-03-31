@@ -10,7 +10,7 @@
 
 ## Mirror
 
-- Gitee: [tsund/LeetCode](https://gitee.com/tsund/LeetCode.git)
+- Gitee: [tsund/LeetCode](https://gitee.com/tsund/LeetCode)
 
 ## License
 
