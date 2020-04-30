@@ -21,7 +21,7 @@ public class Solution {
         if (target == mountainArr.get(peakIndex))
             return peakIndex;
 
-        //  2.二分查找左边区域（因为题目返回最小下标）
+        //  2.二分查找左边区域（因为题目要求返回最小下标）
         int res = findSortedArray(mountainArr, 0, peakIndex - 1, target);
 
         //  3.二分查找右边区域
