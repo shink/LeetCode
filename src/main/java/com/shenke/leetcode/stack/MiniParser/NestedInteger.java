@@ -1,4 +1,4 @@
-package com.leetcode.stack.MiniParser;
+package com.shenke.leetcode.stack.MiniParser;
 
 import java.util.ArrayList;
 import java.util.List;

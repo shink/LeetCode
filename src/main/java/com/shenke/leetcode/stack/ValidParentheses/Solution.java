@@ -1,7 +1,5 @@
-package com.leetcode.stack.ValidParentheses;
+package com.shenke.leetcode.stack.ValidParentheses;
 
-import java.util.HashMap;
-import java.util.Map;
 import java.util.Stack;
 
 /**

@@ -1,4 +1,4 @@
-package com.leetcode.stack.DecodeString;
+package com.shenke.leetcode.stack.DecodeString;
 
 /**
  * @author: shenke

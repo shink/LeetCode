@@ -1,6 +1,4 @@
-package com.leetcode.stack.TrappingRainWater;
-
-import java.util.Stack;
+package com.shenke.leetcode.stack.TrappingRainWater;
 
 /**
  * @author: shenke
