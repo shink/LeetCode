@@ -1,4 +1,4 @@
-package com.shenke.leetcode.stack.ValidParentheses;
+package com.shenke.leetcode.stack.valid_parentheses;
 
 import java.util.Stack;
 

@@ -1,4 +1,4 @@
-package com.shenke.leetcode.stack.MiniParser;
+package com.shenke.leetcode.stack.mini_parser;
 
 /**
  * @author: shenke

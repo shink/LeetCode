@@ -1,4 +1,4 @@
-package com.shenke.leetcode.stack._132Pattern;
+package com.shenke.leetcode.stack._132pattern;
 
 import java.util.Stack;
 
