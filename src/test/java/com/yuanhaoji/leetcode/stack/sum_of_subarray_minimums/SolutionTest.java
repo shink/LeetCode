@@ -1,4 +1,4 @@
-package com.shenke.leetcode.stack.sum_of_subarray_minimums;
+package com.yuanhaoji.leetcode.stack.sum_of_subarray_minimums;
 
 import org.junit.Test;
 

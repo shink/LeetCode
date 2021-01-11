@@ -1,4 +1,4 @@
-package com.shenke.leetcode.stack.trapping_rain_water;
+package com.yuanhaoji.leetcode.stack.trapping_rain_water;
 
 /**
  * @author: shenke

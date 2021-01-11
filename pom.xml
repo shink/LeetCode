@@ -4,23 +4,21 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.shenke</groupId>
+    <groupId>com.yuanhaoji</groupId>
     <artifactId>leetcode-solution</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0.0</version>
 
-    <description>LeetCode problems' solutions programmed by shenke.</description>
+    <description>LeetCode problems' solutions programmed by Yuanhao Ji</description>
 
     <developers>
-
         <developer>
             <id>shenke</id>
             <name>Ji Yuanhao</name>
-            <email>tsund@qq.com</email>
-            <url>https://tsund.cn</url>
+            <email>jiyuanhao1997@gmail.com</email>
+            <url>https://github.com/shink</url>
             <organization>XDU, Shaanxi</organization>
             <organizationUrl>https://www.xidian.edu.cn/</organizationUrl>
         </developer>
-
     </developers>
 
     <properties>

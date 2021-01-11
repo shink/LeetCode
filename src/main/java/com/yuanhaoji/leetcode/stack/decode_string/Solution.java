@@ -1,4 +1,4 @@
-package com.shenke.leetcode.stack.decode_string;
+package com.yuanhaoji.leetcode.stack.decode_string;
 
 /**
  * @author: shenke

@@ -1,4 +1,4 @@
-package com.shenke.leetcode.stack.remove_k_digits;
+package com.yuanhaoji.leetcode.stack.remove_k_digits;
 
 import java.util.LinkedList;
 

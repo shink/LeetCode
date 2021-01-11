@@ -1,4 +1,4 @@
-package com.shenke.leetcode.stack.mini_parser;
+package com.yuanhaoji.leetcode.stack.mini_parser;
 
 /**
  * @author: shenke
