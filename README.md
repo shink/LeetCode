@@ -9,7 +9,7 @@
 
 ## Tags
 
-- Stack: [Title List](src/main/java/com/shenke/leetcode/stack)
+- Stack: [Title List](src/main/java/com/yuanhaoji/leetcode/stack)
 
 ## Mirror
 
