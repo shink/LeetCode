@@ -10,3 +10,4 @@
 |  456  |      132模式       | <font color=#F0AD4E>Medium</font> |         [Solution](_132Pattern/Solution.java)         |
 |  907  | 子数组的最小值之和 | <font color=#F0AD4E>Medium</font> |  [Solution](sum_of_subarray_minimums/Solution.java)   |
 |  225  |    用队列实现栈    |  <font color=#5CB85C>Easy</font>  | [Solution](implement_stack_using_queues/MyStack.java) |
+|  880  | 索引处的解码字符串 | <font color=#F0AD4E>Medium</font> |   [Solution](decoded_string_at_index/Solution.java)   |
