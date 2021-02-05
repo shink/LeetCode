@@ -12,3 +12,4 @@
 |  225  |    用队列实现栈    |  <font color=#5CB85C>Easy</font>  | [Solution](implement_stack_using_queues/MyStack.java) |
 |  880  | 索引处的解码字符串 | <font color=#F0AD4E>Medium</font> |   [Solution](decoded_string_at_index/Solution.java)   |
 |  232  |    用栈实现队列    |  <font color=#5CB85C>Easy</font>  | [Solution](implement_queue_using_stacks/MyQueue.java) |
+|  856  |     括号的分数     | <font color=#F0AD4E>Medium</font> |    [Solution](score_of_parentheses/Solution.java)     |
