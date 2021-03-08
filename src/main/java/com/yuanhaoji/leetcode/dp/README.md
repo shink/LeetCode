@@ -7,3 +7,4 @@
 |  338  |         比特位计数          | <font color=#F0AD4E>Medium</font> |         [Solution](counting_bits/Solution.java)          |
 |  354  |     俄罗斯套娃信封问题      |  <font color=#D9534F>Hard</font>  |     [Solution](russian_doll_envelopes/Solution.java)     |
 |  330  |       最长递增子序列        | <font color=#F0AD4E>Medium</font> | [Solution](longest_increasing_subsequence/Solution.java) |
+|  131  |         分割回文串          | <font color=#F0AD4E>Medium</font> |    [Solution](palindrome_partitioning/Solution.java)     |
