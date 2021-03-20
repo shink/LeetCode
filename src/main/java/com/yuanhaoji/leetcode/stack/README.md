@@ -18,3 +18,4 @@
 |  224  |          基本计算器          |  <font color=#D9534F>Hard</font>  |                [Solution](basic_calculator/Solution.java)                |
 |  227  |        基本计算器 II         | <font color=#F0AD4E>Medium</font> |              [Solution](basic_calculator_II/Solution.java)               |
 |  331  |    验证二叉树的前序序列化    | <font color=#F0AD4E>Medium</font> | [Solution](verify_preorder_serialization_of_a_binary_tree/Solution.java) |
+|  150  |       逆波兰表达式求值       | <font color=#F0AD4E>Medium</font> |        [Solution](evaluate_reverse_polish_notation/Solution.java)        |
