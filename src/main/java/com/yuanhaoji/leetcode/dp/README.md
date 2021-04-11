@@ -11,3 +11,4 @@
 |  132  |        分割回文串 II        | <font color=#F0AD4E>Medium</font> |   [Solution](palindrome_partitioning_II/Solution.java)   |
 |  115  |        不同的子序列         |  <font color=#D9534F>Hard</font>  |     [Solution](distinct_subsequences/Solution.java)      |
 | 1143  |       最长公共子序列        | <font color=#F0AD4E>Medium</font> |   [Solution](longest_common_subsequence/Solution.java)   |
+|  264  |           丑数 II           | <font color=#F0AD4E>Medium</font> |         [Solution](ugly_numbe_II/Solution.java)          |
