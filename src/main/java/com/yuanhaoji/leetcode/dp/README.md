@@ -13,3 +13,4 @@
 | 1143  |       最长公共子序列        | <font color=#F0AD4E>Medium</font> |   [Solution](longest_common_subsequence/Solution.java)   |
 |  264  |           丑数 II           | <font color=#F0AD4E>Medium</font> |         [Solution](ugly_numbe_II/Solution.java)          |
 |  213  |         打家劫舍 II         | <font color=#F0AD4E>Medium</font> |        [Solution](house_robber_II/Solution.java)         |
+|  87   |         扰乱字符串          |  <font color=#D9534F>Hard</font>  |        [Solution](scramble_string/Solution.java)         |
