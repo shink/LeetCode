@@ -8,3 +8,4 @@
 |      80       | 删除有序数组中的重复项 II | <font color=#F0AD4E>Medium</font> | [Solution](remove_duplicates_from_sorted_array_II/Solution.java)  |
 |      26       |  删除有序数组中的重复项   |  <font color=#5CB85C>Easy</font>  |   [Solution](remove_duplicates_from_sorted_array/Solution.java)   |
 |      27       |         移除元素          |  <font color=#5CB85C>Easy</font>  |             [Solution](remove_element/Solution.java)              |
+|      28       |       实现 strStr()       |  <font color=#5CB85C>Easy</font>  |            [Solution](implement_strStr/Solution.java)             |
