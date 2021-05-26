@@ -22,3 +22,4 @@
 |  341  |     扁平化嵌套列表迭代器     | <font color=#F0AD4E>Medium</font> |       [Solution](flatten_nested_list_iterator/NestedIterator.java)       |
 |  735  |           行星碰撞           | <font color=#F0AD4E>Medium</font> |               [Solution](asteroid_collision/Solution.java)               |
 |  901  |         股票价格跨度         | <font color=#F0AD4E>Medium</font> |             [Solution](online_stock_span/StockSpanner.java)              |
+|  682  |           棒球比赛           |  <font color=#5CB85C>Easy</font>  |                 [Solution](baseball_game/Solution.java)                  |
