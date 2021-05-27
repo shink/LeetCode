@@ -23,3 +23,4 @@
 |  735  |           行星碰撞           | <font color=#F0AD4E>Medium</font> |               [Solution](asteroid_collision/Solution.java)               |
 |  901  |         股票价格跨度         | <font color=#F0AD4E>Medium</font> |             [Solution](online_stock_span/StockSpanner.java)              |
 |  682  |           棒球比赛           |  <font color=#5CB85C>Easy</font>  |                 [Solution](baseball_game/Solution.java)                  |
+|  844  |      比较含退格的字符串      |  <font color=#5CB85C>Easy</font>  |            [Solution](backspace_string_compare/Solution.java)            |
