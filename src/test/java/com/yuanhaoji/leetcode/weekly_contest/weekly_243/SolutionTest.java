@@ -12,6 +12,6 @@ public class SolutionTest {
 
     @Test
     public void maxValue() {
-        System.out.println(new Solution().maxValue("-132", 3));
+       // System.out.println(new Solution().maxValue("-132", 3));
     }
 }
