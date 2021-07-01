@@ -20,3 +20,4 @@
 | 1035  |          不相交的线           | <font color=#F0AD4E>Medium</font> |            [Solution](uncrossed_lines/Solution.java)            |
 |  53   |          最大子序和           |  <font color=#5CB85C>Easy</font>  |           [Solution](maximum_subarray/Solution.java)            |
 |  70   |            爬楼梯             |  <font color=#5CB85C>Easy</font>  |            [Solution](climbing_stairs/Solution.java)            |
+|  LCP 07   |            传递信息             |  <font color=#5CB85C>Easy</font>  |            [Solution](transform_information/Solution.java)            |
