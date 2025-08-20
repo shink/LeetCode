@@ -4,3 +4,5 @@ target/
 build/
 tmp/
 *.iml
+*.in
+*.out
